@@ -1,1 +1,1 @@
-This is a restaurant ordering app using apollo-server-express
+This is a template for creating apollo-server-express APIs with the user model already built in. This uses MongoDB.
